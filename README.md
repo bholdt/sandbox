@@ -1,4 +1,8 @@
-sandbox
-=======
+Seek - contains the tests in this project
+Seek.Console - is the runnable Console app
+Seek.Core - has core reader and processors
 
-Developer Play area
+This app was written in .NET. If you have the .NET framework installed. In your terminal run:
+1) dotnet build
+2) dotnet run
+
